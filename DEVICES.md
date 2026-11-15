@@ -33,6 +33,7 @@
 - Ecostrad iQ heating elements
 - EF-R Pro electric fireplace
 - ElectriQ MY130 oil radiator
+- Elíz ECW WiFi convector heaters
 - Emke Orbrad PTR towel radiator
 - Essentials Smart Home electric bathroom heater
 - ETA 2625 Sole Smart panel heater
